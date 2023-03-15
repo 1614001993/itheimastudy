@@ -22,5 +22,11 @@ public class ForDemo {
 
         }
         System.out.println(sum2);
+        //折纸
+        int cishu=0;
+        for(double i=0.2;i<=8848860;i*=2){
+            cishu++;
+        }
+        System.out.println("需要折叠"+cishu+"次");
     }
 }

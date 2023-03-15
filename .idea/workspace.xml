@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/day01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ideaCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/ForDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/ForDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/ForDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/ForDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.WhileDemo">
+  <component name="RunManager" selected="Application.ForDemo">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itheima.contrast.Demo1" />
       <module name="mOop" />
@@ -145,9 +142,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForDemo" />
         <item itemvalue="Application.WhileDemo" />
         <item itemvalue="Application.TestPhone" />
-        <item itemvalue="Application.ForDemo" />
         <item itemvalue="Application.TestDemo01" />
         <item itemvalue="Application.Demo1" />
       </list>
@@ -168,15 +165,54 @@
       <workItem from="1678767119431" duration="7630000" />
       <workItem from="1678783402065" duration="3620000" />
       <workItem from="1678844893452" duration="5327000" />
-      <workItem from="1678852488979" duration="11986000" />
+      <workItem from="1678852488979" duration="12969000" />
     </task>
+    <task id="LOCAL-00001" summary="day03study">
+      <created>1678867833707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678867833707</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day03studytest">
+      <created>1678868009037</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678868009037</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day03study" />
-    <option name="LAST_COMMIT_MESSAGE" value="day03study" />
+    <MESSAGE value="day03studytest" />
+    <option name="LAST_COMMIT_MESSAGE" value="day03studytest" />
   </component>
 </project>
