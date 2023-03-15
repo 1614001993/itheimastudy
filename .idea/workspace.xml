@@ -4,7 +4,9 @@
     <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/ForDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/ForDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/WhileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/WhileDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/ForDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/ForDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/WhileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/WhileDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.ForDemo">
+  <component name="RunManager" selected="Application.WhileDemo">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itheima.contrast.Demo1" />
       <module name="mOop" />
@@ -142,8 +144,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForDemo" />
         <item itemvalue="Application.WhileDemo" />
+        <item itemvalue="Application.ForDemo" />
         <item itemvalue="Application.TestPhone" />
         <item itemvalue="Application.TestDemo01" />
         <item itemvalue="Application.Demo1" />
@@ -165,7 +167,7 @@
       <workItem from="1678767119431" duration="7630000" />
       <workItem from="1678783402065" duration="3620000" />
       <workItem from="1678844893452" duration="5327000" />
-      <workItem from="1678852488979" duration="12969000" />
+      <workItem from="1678852488979" duration="14649000" />
     </task>
     <task id="LOCAL-00001" summary="day03study">
       <created>1678867833707</created>
@@ -181,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678868009037</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day03studytest">
+      <created>1678868792073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678868792073</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

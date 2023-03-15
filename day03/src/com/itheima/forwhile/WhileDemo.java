@@ -23,6 +23,15 @@ public class WhileDemo {
             number+=2;
         }
         System.out.println("1~100的偶数和为"+sum1);
+
+    //    折纸高度大于珠峰高度
+        int count=0;
+        double paper=0.1;
+        while(paper<8848860){
+            count++;
+            paper*=2;
+        }
+        System.out.println("需要折纸"+count+"次");
     }
 
 
