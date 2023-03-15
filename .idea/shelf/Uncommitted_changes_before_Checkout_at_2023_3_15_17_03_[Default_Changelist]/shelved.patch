@@ -1,0 +1,116 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"534e55aa-7624-40ad-aebe-84ae68cc403c\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/day03/src/com/itheima/forwhile/ForDemo.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/day03/src/com/itheima/forwhile/ForDemo.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/day03/src/com/itheima/forwhile/WhileDemo.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/day03/src/com/itheima/forwhile/WhileDemo.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/ForDemo.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/ForDemo.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/WhileDemo.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/WhileDemo.class\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Kotlin Class\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"liquanxiao\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"jar://C:/Program Files/Java/jdk-17.0.4.1/lib/src.zip!/java.base/java/io/PrintStream.java\" root0=\"SKIP_INSPECTION\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2MttEpcGBEMIxL3ewlhCLE3kAfV\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n    <property name=\"jdk.selected.JAVA_MODULE\" value=\"17\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Modules\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.lookFeel\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.WhileDemo\">\r\n    <configuration name=\"Demo1\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.itheima.contrast.Demo1\" />\r\n      <module name=\"mOop\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.itheima.contrast.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ForDemo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.itheima.forwhile.ForDemo\" />\r\n      <module name=\"day03\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.itheima.forwhile.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"TestDemo01\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.itheima.contrast.TestDemo01\" />\r\n      <module name=\"mOop\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.itheima.contrast.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"TestPhone\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.itheima.phone.TestPhone\" />\r\n      <module name=\"mOop\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.itheima.phone.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"WhileDemo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.itheima.forwhile.WhileDemo\" />\r\n      <module name=\"day03\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.itheima.forwhile.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"ArquillianTestNG\" factoryName=\"\" nameIsGenerated=\"true\">\r\n      <option name=\"arquillianRunConfiguration\">\r\n        <value>\r\n          <option name=\"containerStateName\" value=\"\" />\r\n        </value>\r\n      </option>\r\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.WhileDemo\" />\r\n        <item itemvalue=\"Application.ForDemo\" />\r\n        <item itemvalue=\"Application.TestPhone\" />\r\n        <item itemvalue=\"Application.TestDemo01\" />\r\n        <item itemvalue=\"Application.Demo1\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"534e55aa-7624-40ad-aebe-84ae68cc403c\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1678598599873</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1678598599873</updated>\r\n      <workItem from=\"1678598602900\" duration=\"1029000\" />\r\n      <workItem from=\"1678604050657\" duration=\"9817000\" />\r\n      <workItem from=\"1678675126069\" duration=\"20012000\" />\r\n      <workItem from=\"1678755450192\" duration=\"6494000\" />\r\n      <workItem from=\"1678767119431\" duration=\"7630000\" />\r\n      <workItem from=\"1678783402065\" duration=\"3620000\" />\r\n      <workItem from=\"1678844893452\" duration=\"5327000\" />\r\n      <workItem from=\"1678852488979\" duration=\"14649000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"day03study\">\r\n      <created>1678867833707</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1678867833707</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"day03studytest\">\r\n      <created>1678868009037</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1678868009037</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"day03studytest\">\r\n      <created>1678868792073</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1678868792073</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"day03study\" />\r\n    <MESSAGE value=\"day03studytest\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"day03studytest\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c88e2dd1991ce109cdd63c7c3928451761065ee0)
++++ b/.idea/workspace.xml	(date 1678870955020)
+@@ -1,13 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/ForDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/ForDemo.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/WhileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/WhileDemo.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/ForDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/ForDemo.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/WhileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/WhileDemo.class" afterDir="false" />
+-    </list>
++    <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -26,6 +20,11 @@
+       <list>
+         <option value="liquanxiao" />
+       </list>
++    </option>
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+@@ -145,9 +144,9 @@
+     <recent_temporary>
+       <list>
+         <item itemvalue="Application.WhileDemo" />
+-        <item itemvalue="Application.ForDemo" />
+         <item itemvalue="Application.TestPhone" />
+         <item itemvalue="Application.TestDemo01" />
++        <item itemvalue="Application.ForDemo" />
+         <item itemvalue="Application.Demo1" />
+       </list>
+     </recent_temporary>
+@@ -167,7 +166,7 @@
+       <workItem from="1678767119431" duration="7630000" />
+       <workItem from="1678783402065" duration="3620000" />
+       <workItem from="1678844893452" duration="5327000" />
+-      <workItem from="1678852488979" duration="14649000" />
++      <workItem from="1678852488979" duration="15002000" />
+     </task>
+     <task id="LOCAL-00001" summary="day03study">
+       <created>1678867833707</created>
+@@ -190,7 +189,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1678868792073</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="xiu gai le zhi zhang hou du">
++      <created>1678870660422</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1678870660422</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -199,6 +205,23 @@
+   <component name="Vcs.Log.Tabs.Properties">
+     <option name="TAB_STATES">
+       <map>
++        <entry key="7f75b8f0-99d6-4d6f-828c-0b48aebeb515">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="origin/master" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
+         <entry key="MAIN">
+           <value>
+             <State>
+@@ -218,10 +241,16 @@
+         </entry>
+       </map>
+     </option>
++    <option name="OPEN_GENERIC_TABS">
++      <map>
++        <entry key="7f75b8f0-99d6-4d6f-828c-0b48aebeb515" value="TOOL_WINDOW" />
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="day03study" />
+     <MESSAGE value="day03studytest" />
+-    <option name="LAST_COMMIT_MESSAGE" value="day03studytest" />
++    <MESSAGE value="xiu gai le zhi zhang hou du" />
++    <option name="LAST_COMMIT_MESSAGE" value="xiu gai le zhi zhang hou du" />
+   </component>
+ </project>
+\ No newline at end of file

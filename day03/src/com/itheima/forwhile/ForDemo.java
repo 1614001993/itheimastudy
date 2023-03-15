@@ -28,5 +28,34 @@ public class ForDemo {
             cishu++;
         }
         System.out.println("需要折叠"+cishu+"次");
+    //    我爱你 循环嵌套
+        for(int i=1;i<=5;i++){
+            for(int m=1;m<=3;m++){
+                System.out.println("I Love You ");
+            }
+        }
+    //    使用*号打印出来4行5列的矩形
+        for (int i = 1; i <= 4; i++) {
+            for (int j = 0; j < 5; j++) {
+                System.out.print('*'+ " ");
+            }
+            System.out.println();
+        }
+
+    //    跳转关键字  break，continue
+        for (int i = 0; i < 5; i++) {
+            if(i==3){
+                break;
+            }
+            System.out.println("我爱你");
+
+        }
+        for (int i = 1; i <= 5; i++) {
+            if(i==3){
+                continue;
+            }
+            System.out.println("洗碗"+i);
+        }
     }
+
 }
