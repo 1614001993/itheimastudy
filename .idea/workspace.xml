@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/ForDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/ForDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/ForDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day03/com/itheima/forwhile/ForDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/method-app/com/itheima/define/MethodDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/method-app/com/itheima/define/MethodDemo5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,25 +57,13 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.ForDemo">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.contrast.Demo1" />
-      <module name="mOop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.contrast.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GuessDemo">
     <configuration name="ForDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itheima.forwhile.ForDemo" />
       <module name="day03" />
@@ -88,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.contrast.TestDemo01" />
-      <module name="mOop" />
+    <configuration name="GuessDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.random.GuessDemo" />
+      <module name="day04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.contrast.*" />
+          <option name="PATTERN" value="com.itheima.random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.phone.TestPhone" />
-      <module name="mOop" />
+    <configuration name="MethodTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.define.MethodTest3" />
+      <module name="method-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.phone.*" />
+          <option name="PATTERN" value="com.itheima.define.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,24 +116,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="WorkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.work.WorkTest" />
+      <module name="day03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuessDemo" />
+        <item itemvalue="Application.MethodTest3" />
+        <item itemvalue="Application.WorkTest" />
         <item itemvalue="Application.ForDemo" />
         <item itemvalue="Application.WhileDemo" />
-        <item itemvalue="Application.TestPhone" />
-        <item itemvalue="Application.TestDemo01" />
-        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +168,8 @@
       <workItem from="1678783402065" duration="3620000" />
       <workItem from="1678844893452" duration="5327000" />
       <workItem from="1678852488979" duration="14649000" />
-      <workItem from="1678871760325" duration="3122000" />
+      <workItem from="1678871760325" duration="11190000" />
+      <workItem from="1678926354515" duration="2436000" />
     </task>
     <task id="LOCAL-00001" summary="day03study">
       <created>1678867833707</created>
@@ -187,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678868792073</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="break continue使用">
+      <created>1678875177463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678875177463</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +232,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day03study" />
     <MESSAGE value="day03studytest" />
-    <option name="LAST_COMMIT_MESSAGE" value="day03studytest" />
+    <MESSAGE value="break continue使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="break continue使用" />
   </component>
 </project>
