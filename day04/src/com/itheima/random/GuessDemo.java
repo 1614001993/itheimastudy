@@ -21,7 +21,6 @@ public class GuessDemo {
                 } else if (guess < num) {
                     System.out.println("您猜小了");
                 }
-
             }  else{
                 System.out.println("请输入范围内的数字");
             }
