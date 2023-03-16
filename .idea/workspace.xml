@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/method-app/com/itheima/define/MethodDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/method-app/com/itheima/define/MethodDemo5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +166,7 @@
       <workItem from="1678844893452" duration="5327000" />
       <workItem from="1678852488979" duration="14649000" />
       <workItem from="1678871760325" duration="11190000" />
-      <workItem from="1678926354515" duration="2436000" />
+      <workItem from="1678926354515" duration="2631000" />
     </task>
     <task id="LOCAL-00001" summary="day03study">
       <created>1678867833707</created>
@@ -199,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678875177463</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="猜数字案例">
+      <created>1678933226158</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678933226158</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +237,7 @@
     <MESSAGE value="day03study" />
     <MESSAGE value="day03studytest" />
     <MESSAGE value="break continue使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="break continue使用" />
+    <MESSAGE value="猜数字案例" />
+    <option name="LAST_COMMIT_MESSAGE" value="猜数字案例" />
   </component>
 </project>
