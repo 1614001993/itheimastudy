@@ -1,6 +1,8 @@
 package com.itheima.define;
 
-public class MethodTest3 {
+public class ShowArr {
+
+    //将一个数组以[11,22,33,44,55]的方式展示出来
     public static void main(String[] args) {
         int[] arr=new int[]{55,66,77,88,99};
         printArr(arr);
@@ -14,6 +16,7 @@ public class MethodTest3 {
             }else {
                 System.out.println(arr[i]+"]");
             }
+
         }
 
     }

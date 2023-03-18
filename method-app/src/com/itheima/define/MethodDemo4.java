@@ -12,7 +12,7 @@ public class MethodDemo4 {
         System.out.println(b);
 
     }
-
+    //判断一个数是奇数还是偶数
     public static void isType(int n) {
         if (n % 2 == 0) {
             System.out.println(n+"是偶数");
