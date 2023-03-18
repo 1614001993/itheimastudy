@@ -14,11 +14,9 @@ public class MaxArray {
             if (arr[i] > max) {
                 max = arr[i];
             }
-
         }
-
-        System.out.println(max);
-        System.out.println(min);
+        System.out.println("最大值"+max);
+        System.out.println("最小值"+min);
     }
 
 }

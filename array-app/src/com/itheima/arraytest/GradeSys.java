@@ -27,7 +27,5 @@ public class GradeSys {
         }
         average=sum/people;
         return average;
-
-
     }
 }

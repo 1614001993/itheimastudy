@@ -16,8 +16,6 @@ public class ReverseArr {
         for (int t = 0; t < arr.length; t++) {
             System.out.println(arr[t]);
         }
-
-
     }
 
 }

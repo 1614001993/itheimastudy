@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-app/src/com/itheima/arraytest/AyyayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/src/com/itheima/arraytest/AyyayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/src/com/itheima/random/GuessDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/itheima/random/GuessDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array-app/src/com/itheima/arraystudy/MaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/src/com/itheima/arraystudy/MaxArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array-app/src/com/itheima/arraystudy/ReverseArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/src/com/itheima/arraystudy/ReverseArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array-app/src/com/itheima/arraytest/GradeSys.java" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/src/com/itheima/arraytest/GradeSys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/MethodDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/itheima/define/MethodDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/array-app/com/itheima/arraystudy/MaxArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array-app/com/itheima/arraystudy/MaxArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/array-app/com/itheima/arraystudy/ReverseArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array-app/com/itheima/arraystudy/ReverseArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/method-app/com/itheima/define/MethodDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/method-app/com/itheima/define/MethodDemo02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,14 +63,21 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.GradeSys">
-    <configuration name="ArrEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.define.ArrEqual" />
+  <component name="RunManager" selected="Application.Demo1">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo1" />
+      <module name="demo_practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.define.MethodDemo02" />
       <module name="method-app" />
       <extension name="coverage">
         <pattern>
@@ -76,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeSys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.arraytest.GradeSys" />
-      <module name="array-app" />
+    <configuration name="MethodLoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.define.MethodLoad" />
+      <module name="method-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.arraytest.*" />
+          <option name="PATTERN" value="com.itheima.define.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuessDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.random.GuessDemo" />
+    <configuration name="Score" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Score" />
       <module name="day04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.random.*" />
+          <option name="PATTERN" value="com.itheima.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.define.MethodTest3" />
-      <module name="method-app" />
+    <configuration name="WorkDay04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.WorkDay04" />
+      <module name="day04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.define.*" />
+          <option name="PATTERN" value="com.itheima.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,37 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrendsArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.arraytest.TrendsArr" />
-      <module name="array-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.arraytest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GradeSys" />
-        <item itemvalue="Application.TrendsArr" />
-        <item itemvalue="Application.ArrEqual" />
-        <item itemvalue="Application.GuessDemo" />
-        <item itemvalue="Application.MethodTest3" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.MethodDemo02" />
+        <item itemvalue="Application.MethodLoad" />
+        <item itemvalue="Application.WorkDay04" />
+        <item itemvalue="Application.Score" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +169,8 @@
       <workItem from="1678852488979" duration="14649000" />
       <workItem from="1678871760325" duration="11190000" />
       <workItem from="1678926354515" duration="3515000" />
-      <workItem from="1678934273228" duration="6561000" />
+      <workItem from="1678934273228" duration="17846000" />
+      <workItem from="1679100960104" duration="6441000" />
     </task>
     <task id="LOCAL-00001" summary="day03study">
       <created>1678867833707</created>
@@ -211,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678933651184</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="猜数字案例">
+      <created>1678951962004</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678951962004</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
