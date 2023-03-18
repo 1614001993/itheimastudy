@@ -3,24 +3,30 @@ package com.itheima.define;
 public class MethodDemo4 {
     //判断一个整数是奇数还是偶数，并将判断的结果返回出来
     public static void main(String[] args) {
-        String a = isType(5);
+        isType(7);
+        isType(8);
+
+        int a=getSum(8);
         System.out.println(a);
-        String b = isType(0);
+        int b=getSum(10);
         System.out.println(b);
-        String c = isType(6);
-        System.out.println(c);
-        String d = isType(-1);
-        System.out.println(d);
-        String e = isType(-4);
-        System.out.println(e);
 
     }
 
-    public static String isType(int n) {
+    public static void isType(int n) {
         if (n % 2 == 0) {
-            return "偶数";
+            System.out.println(n+"是偶数");
         } else {
-            return "奇数";
+            System.out.println(n+"是奇数");
         }
+    }
+    //求1~n的和
+    public static int getSum(int n){
+        int sum=0;
+        for (int i = 0; i < n; i++) {
+            sum+=i;
+        }
+        System.out.print("1~"+n+"的和为：");
+        return sum;
     }
 }
