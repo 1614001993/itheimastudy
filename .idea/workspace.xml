@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="修改了MethodDemo4">
+    <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/MethodDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/itheima/define/MethodDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/MethodTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/itheima/define/ShowArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_practise/src/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo_practise/src/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_practise/src/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo_practise/src/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_practise/src/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo_practise/src/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_practise/src/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo_practise/src/Demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/ArrEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/itheima/define/demo/ArrEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/ShowArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/itheima/define/demo/ShowArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/demo_practise/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo_practise/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/method-app/com/itheima/define/MethodDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/method-app/com/itheima/define/MethodDemo4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo_practise/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo_practise/Demo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo_practise/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo_practise/Demo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/demo_practise/Demo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo_practise/Demo4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/method-app/com/itheima/define/ArrEqual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/method-app/com/itheima/define/MethodTest3.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +50,12 @@
     <setting file="file://$PROJECT_DIR$/method-app/src/com/itheima/define/MethodDemo3.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/method-app/src/com/itheima/define/MethodDemo02.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/method-app/src/com/itheima/define/MethodTest.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/method-app/src/com/itheima/define/ShowArr.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/method-app/src/com/itheima/define/demo/ShowArr.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/out/production/method-app/com/itheima/define/MethodDemo4.class" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/method-app/src/com/itheima/define/MethodDemo5.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/demo_practise/src/Demo2.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/demo_practise/src/Demo1.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/method-app/src/com/itheima/define/ArrEqual.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/method-app/src/com/itheima/define/demo/ArrEqual.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar://C:/Program Files/Java/jdk-17.0.4.1/lib/src.zip!/java.base/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/method-app/src/com/itheima/define/MethodDemo4.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -74,9 +83,35 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.MethodStudy">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.itheima.define.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo2 (1)">
+    <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo1" />
+      <module name="day09_demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo1" />
+      <module name="demo_practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo2" />
+      <module name="day09_demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo2" />
       <module name="demo_practise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,39 +120,6 @@
     <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo3" />
       <module name="demo_practise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo4" />
-      <module name="demo_practise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.define.MethodDemo4" />
-      <module name="method-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.define.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.define.MethodStudy" />
-      <module name="method-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.define.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodStudy" />
-        <item itemvalue="Application.Demo4" />
+        <item itemvalue="Application.Demo2 (1)" />
+        <item itemvalue="Application.Demo1 (1)" />
         <item itemvalue="Application.Demo3" />
-        <item itemvalue="Application.MethodDemo4" />
         <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +166,9 @@
       <workItem from="1678871760325" duration="11190000" />
       <workItem from="1678926354515" duration="3515000" />
       <workItem from="1678934273228" duration="17846000" />
-      <workItem from="1679100960104" duration="12198000" />
+      <workItem from="1679100960104" duration="21642000" />
+      <workItem from="1679189068787" duration="9336000" />
+      <workItem from="1679198943841" duration="2706000" />
     </task>
     <task id="LOCAL-00001" summary="day03study">
       <created>1678867833707</created>
@@ -229,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679123225934</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="修改了MethodDemo4">
+      <created>1679131371016</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679131371016</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,5 +277,9 @@
     <MESSAGE value="猜数字案例" />
     <MESSAGE value="修改了MethodDemo4" />
     <option name="LAST_COMMIT_MESSAGE" value="修改了MethodDemo4" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

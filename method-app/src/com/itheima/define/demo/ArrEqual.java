@@ -1,4 +1,4 @@
-package com.itheima.define;
+package com.itheima.define.demo;
 
 public class ArrEqual {
 

@@ -1,4 +1,4 @@
-package com.itheima.define;
+package com.itheima.define.demo;
 
 public class ShowArr {
 
@@ -16,8 +16,6 @@ public class ShowArr {
             }else {
                 System.out.println(arr[i]+"]");
             }
-
         }
-
     }
 }

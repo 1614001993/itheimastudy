@@ -38,10 +38,8 @@ public class Demo3 {
             sum+=people[i];
 
         }
-        System.out.println(max+" "+min);
+        System.out.println("去掉一个最高分"+max+"，去掉一个最低分"+min);
         double average = (sum - max - min) / (n - 2);
         return average;
-
-
     }
 }
