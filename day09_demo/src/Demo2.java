@@ -9,7 +9,7 @@ public class Demo2 {
 
     public static void main(String[] args) {
 
-
+        Demo2();
     }
 
     public static void Demo2() {
@@ -30,24 +30,23 @@ public class Demo2 {
                 break;
             case 2:
                 int reduce = a - b;
-                System.out.println(reduce);
+                System.out.println(a+"-"+b+"="+reduce);
                 break;
             case 3:
                 int cheng = a * b;
-                System.out.println(cheng);
+                System.out.println(a+"*"+b+"="+cheng);
                 break;
             case 4:
                 int chu = a / b;
-                System.out.println(chu);
+                System.out.println(a+"/"+b+"="+chu);
                 break;
             case 5:
                 int yu = a % b;
-                System.out.println(yu);
+                System.out.println(a+"%"+b+"="+yu);
                 break;
             default:
                 System.out.println("请输入正确的运算符");
         }
-        System.out.println(a+b);
 
 
     }

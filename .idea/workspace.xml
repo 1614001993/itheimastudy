@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_practise/src/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo_practise/src/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_practise/src/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo_practise/src/Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_practise/src/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo_practise/src/Demo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_practise/src/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo_practise/src/Demo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/ArrEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/itheima/define/demo/ArrEqual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/ShowArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/itheima/define/demo/ShowArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo_practise/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo_practise/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo_practise/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo_practise/Demo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo_practise/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo_practise/Demo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo_practise/Demo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo_practise/Demo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/method-app/com/itheima/define/ArrEqual.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/method-app/com/itheima/define/MethodTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day09_demo/src/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day09_demo/src/Demo2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,62 +76,49 @@
       <recent name="com.itheima.define.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo2 (1)">
-    <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo1" />
+  <component name="RunManager" selected="Application.Demo25">
+    <configuration name="Demo21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo21" />
       <module name="day09_demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo1" />
-      <module name="demo_practise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo2" />
+    <configuration name="Demo23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo23" />
       <module name="day09_demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo2" />
-      <module name="demo_practise" />
+    <configuration name="Demo24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo24" />
+      <module name="day09_demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo3" />
-      <module name="demo_practise" />
+    <configuration name="Demo25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo25" />
+      <module name="day09_demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="day09_demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo2 (1)" />
-        <item itemvalue="Application.Demo1 (1)" />
-        <item itemvalue="Application.Demo3" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo25" />
+        <item itemvalue="Application.Demo24" />
+        <item itemvalue="Application.Demo23" />
+        <item itemvalue="Application.Demo21" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +143,11 @@
       <workItem from="1678934273228" duration="17846000" />
       <workItem from="1679100960104" duration="21642000" />
       <workItem from="1679189068787" duration="9336000" />
-      <workItem from="1679198943841" duration="2706000" />
+      <workItem from="1679198943841" duration="14888000" />
+      <workItem from="1679224292080" duration="6390000" />
+      <workItem from="1679272214489" duration="10742000" />
+      <workItem from="1679283093005" duration="7588000" />
+      <workItem from="1679297443811" duration="641000" />
     </task>
     <task id="LOCAL-00001" summary="day03study">
       <created>1678867833707</created>
@@ -240,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679131371016</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="demo">
+      <created>1679207847058</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679207847058</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,7 +262,19 @@
     <MESSAGE value="break continue使用" />
     <MESSAGE value="猜数字案例" />
     <MESSAGE value="修改了MethodDemo4" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了MethodDemo4" />
+    <MESSAGE value="demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day09_demo/src/Demo21.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
