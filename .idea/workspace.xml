@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="">
+    <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="构造器">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/contrast/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mOop/com/itheima/contrast/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/contrast/TestDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mOop/com/itheima/contrast/TestDemo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/phone/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mOop/com/itheima/phone/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/phone/TestPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mOop/com/itheima/phone/TestPhone.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,17 +79,23 @@
       <recent name="com.itheima.define.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentTest (1)">
-    <configuration name="Demo24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo24" />
+  <component name="RunManager" selected="Application.PriviteDemoTest">
+    <configuration name="Demo25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo25" />
       <module name="day09_demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo25" />
-      <module name="day09_demo" />
+    <configuration name="PriviteDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.privteDemo.PriviteDemoTest" />
+      <module name="mOop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.privteDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -142,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PriviteDemoTest" />
         <item itemvalue="Application.StudentTest (1)" />
         <item itemvalue="Application.TestThisDemo" />
         <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.Demo25" />
-        <item itemvalue="Application.Demo24" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +186,7 @@
       <workItem from="1679272214489" duration="10742000" />
       <workItem from="1679283093005" duration="7588000" />
       <workItem from="1679297443811" duration="641000" />
-      <workItem from="1679357885710" duration="7585000" />
+      <workItem from="1679357885710" duration="9616000" />
     </task>
     <task id="LOCAL-00001" summary="day03study">
       <created>1678867833707</created>
@@ -255,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679207847058</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="构造器">
+      <created>1679383709441</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679383709441</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +309,8 @@
     <MESSAGE value="猜数字案例" />
     <MESSAGE value="修改了MethodDemo4" />
     <MESSAGE value="demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo" />
+    <MESSAGE value="构造器" />
+    <option name="LAST_COMMIT_MESSAGE" value="构造器" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
