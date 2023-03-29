@@ -3,73 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_3_15_17_03_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_3_15_17_03__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-app/src/com/itheima/arraystudy/MaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/src/com/moopstudy/arraystudy/MaxArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-app/src/com/itheima/arraystudy/ReverseArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/src/com/moopstudy/arraystudy/ReverseArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-app/src/com/itheima/arraystudy/WorkArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/src/com/moopstudy/arraystudy/WorkArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-app/src/com/itheima/arraytest/ArrayDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/src/com/moopstudy/arraytest/ArrayDemo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-app/src/com/itheima/arraytest/AyyayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/src/com/moopstudy/arraytest/AyyayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-app/src/com/itheima/arraytest/GradeSys.java" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/src/com/moopstudy/arraytest/GradeSys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-app/src/com/itheima/arraytest/TrendsArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/src/com/moopstudy/arraytest/TrendsArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-app/src/com/itheima/memory/ArrayDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/array-app/src/com/moopstudy/memory/ArrayDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/src/com/itheima/type/InfoYiQing.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02/src/com/moopstudy/type/InfoYiQing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/src/com/itheima/yunsuan/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02/src/com/moopstudy/yunsuan/Demo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/src/com/itheima/yunsuan/Demo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02/src/com/moopstudy/yunsuan/Demo02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/src/com/itheima/yunsuan/Demo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02/src/com/moopstudy/yunsuan/Demo03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/src/com/itheima/yunsuan/Demo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02/src/com/moopstudy/yunsuan/Demo04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/src/com/itheima/yunsuan/Demo05.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02/src/com/moopstudy/yunsuan/Demo05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/src/com/itheima/yunsuan/Demo06.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02/src/com/moopstudy/yunsuan/Demo06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/src/com/itheima/yunsuan/Demo07.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02/src/com/moopstudy/yunsuan/Demo07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/ForDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/com/moopstudy/forwhile/ForDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day03/src/com/itheima/forwhile/WhileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/com/moopstudy/forwhile/WhileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day03/src/com/itheima/ifswitch/IfDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/com/moopstudy/ifswitch/IfDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day03/src/com/itheima/ifswitch/SwitchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/com/moopstudy/ifswitch/SwitchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day03/src/com/itheima/work/WorkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03/src/com/moopstudy/work/WorkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/src/com/itheima/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/moopstudy/Score.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/src/com/itheima/WorkDay04.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/moopstudy/WorkDay04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/src/com/itheima/random/GuessDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/moopstudy/random/GuessDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/constructor/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/constructor/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/constructor/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/constructor/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/contrast/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/contrast/Demo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/contrast/TestDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/contrast/TestDemo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/javabean/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/javabean/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/javabean/StudentOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/javabean/StudentOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/javabean/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/javabean/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/moviedemo/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/moviedemo/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/moviedemo/MovieOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/moviedemo/MovieOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/moviedemo/MovieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/moviedemo/MovieTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/phone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/phone/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/phone/TestPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/phone/TestPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/privteDemo/PriviteDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/privteDemo/PriviteDemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/privteDemo/PrivteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/privteDemo/PrivteDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/student/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/student/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/student/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/thisdemo/TestThisDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/thisdemo/TestThisDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mOop/src/com/itheima/thisdemo/ThisDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/mOop/src/com/moopstudy/thisdemo/ThisDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/MethodDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/moopstudy/define/MethodDemo02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/MethodDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/moopstudy/define/MethodDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/MethodDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/moopstudy/define/MethodDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/MethodDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/moopstudy/define/MethodDemo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/MethodLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/moopstudy/define/MethodLoad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/MethodStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/moopstudy/define/MethodStudy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/MethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/moopstudy/define/MethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/demo/ArrEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/moopstudy/define/demo/ArrEqual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method-app/src/com/itheima/define/demo/ShowArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/method-app/src/com/moopstudy/define/demo/ShowArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/constructor/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/constructor/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/contrast/Demo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/contrast/TestDemo01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/javabean/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/javabean/StudentOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/javabean/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/phone/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/phone/TestPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/privteDemo/PriviteDemoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/privteDemo/PrivteDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/student/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/student/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/thisdemo/TestThisDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mOop/com/itheima/thisdemo/ThisDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/api_study/com/apistudy/stringstudy/StringApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/api_study/com/apistudy/stringstudy/StringApi.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,13 +79,13 @@
       <recent name="com.itheima.define.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringApi">
-    <configuration name="MovieTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.moopstudy.moviedemo.MovieTest" />
-      <module name="mOop" />
+  <component name="RunManager" selected="Application.Demo03">
+    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test01.Demo03" />
+      <module name="comprehensive_exe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.moopstudy.moviedemo.*" />
+          <option name="PATTERN" value="com.test01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.moopstudy.moviewujin.MovieTest" />
-      <module name="mOop" />
+    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Test11" />
+      <module name="comprehensive_exe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.moopstudy.javabean.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PeopleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.moopstudy.peopledemo.PeopleTest" />
-      <module name="mOop" />
+    <configuration name="Test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Test12" />
+      <module name="comprehensive_exe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.moopstudy.peopledemo.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriviteDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.moopstudy.privteDemo.PriviteDemoTest" />
-      <module name="mOop" />
+    <configuration name="Test13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Test13" />
+      <module name="comprehensive_exe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.moopstudy.privteDemo.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,25 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.apistudy.stringstudy.StringApi" />
-      <module name="api_study" />
+    <configuration name="Test14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Test14" />
+      <module name="comprehensive_exe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.apistudy.stringstudy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.apistudy.stringstudy.StringDemo" />
-      <module name="api_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.apistudy.stringstudy.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,13 +156,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="day01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="day01" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringApi" />
-        <item itemvalue="Application.StringDemo" />
-        <item itemvalue="Application.PeopleTest" />
-        <item itemvalue="Application.MovieTest" />
-        <item itemvalue="Application.PriviteDemoTest" />
+        <item itemvalue="Application.Demo03" />
+        <item itemvalue="Application.Test14" />
+        <item itemvalue="Application.Test13" />
+        <item itemvalue="Application.Test12" />
+        <item itemvalue="Application.Test11" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +207,15 @@
       <workItem from="1679297443811" duration="641000" />
       <workItem from="1679357885710" duration="15908000" />
       <workItem from="1679398588247" duration="4920000" />
-      <workItem from="1679452154586" duration="2924000" />
+      <workItem from="1679452154586" duration="11710000" />
+      <workItem from="1679474197284" duration="10566000" />
+      <workItem from="1679621522188" duration="27959000" />
+      <workItem from="1679658277434" duration="1173000" />
+      <workItem from="1679660651988" duration="1929000" />
+      <workItem from="1679705195240" duration="14031000" />
+      <workItem from="1679840174117" duration="3339000" />
+      <workItem from="1679876366295" duration="1168000" />
+      <workItem from="1680050552893" duration="15206000" />
     </task>
     <task id="LOCAL-00001" summary="day03study">
       <created>1678867833707</created>
@@ -377,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679394223984</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="String">
+      <created>1679458038709</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679458038709</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,7 +370,8 @@
     <MESSAGE value="封装" />
     <MESSAGE value="实体类" />
     <MESSAGE value="实体类案例以及电影查询案例" />
-    <option name="LAST_COMMIT_MESSAGE" value="实体类案例以及电影查询案例" />
+    <MESSAGE value="String" />
+    <option name="LAST_COMMIT_MESSAGE" value="String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -427,6 +380,11 @@
           <url>file://$PROJECT_DIR$/day09_demo/src/Demo21.java</url>
           <line>25</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api_study/src/com/apistudy/arraylist/ArrayListDemo.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
