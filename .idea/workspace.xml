@@ -2,11 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534e55aa-7624-40ad-aebe-84ae68cc403c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_3_15_17_03_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_3_15_17_03__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/api_study/com/apistudy/stringstudy/StringApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/api_study/com/apistudy/stringstudy/StringApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test05.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test06.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test07.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test08.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test09.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test10.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test11.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test12.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test13.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test/Test14.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/day01/Test14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test01/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/test01/Demo01no.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehensive_exe/src/com/test01/Demo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensive_exe/src/com/test01/Demo04no.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test/Test14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test01/Demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test01/Demo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/comprehensive_exe/com/test01/Demo03.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +107,39 @@
       <recent name="com.itheima.define.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo03">
-    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test01.Demo03" />
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="Test08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day02.Test08" />
       <module name="comprehensive_exe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test01.*" />
+          <option name="PATTERN" value="com.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day02.Test09" />
+      <module name="comprehensive_exe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day02.Test10" />
+      <module name="comprehensive_exe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +148,11 @@
       </method>
     </configuration>
     <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.Test11" />
+      <option name="MAIN_CLASS_NAME" value="com.day02.Test11" />
       <module name="comprehensive_exe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.*" />
+          <option name="PATTERN" value="com.day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.Test12" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day02.Test2" />
       <module name="comprehensive_exe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.*" />
+          <option name="PATTERN" value="com.day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,39 +173,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.Test13" />
-      <module name="comprehensive_exe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.Test14" />
-      <module name="comprehensive_exe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo03" />
-        <item itemvalue="Application.Test14" />
-        <item itemvalue="Application.Test13" />
-        <item itemvalue="Application.Test12" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test11" />
+        <item itemvalue="Application.Test10" />
+        <item itemvalue="Application.Test09" />
+        <item itemvalue="Application.Test08" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +245,8 @@
       <workItem from="1679705195240" duration="14031000" />
       <workItem from="1679840174117" duration="3339000" />
       <workItem from="1679876366295" duration="1168000" />
-      <workItem from="1680050552893" duration="15206000" />
+      <workItem from="1680050552893" duration="22481000" />
+      <workItem from="1680136516245" duration="18028000" />
     </task>
     <task id="LOCAL-00001" summary="day03study">
       <created>1678867833707</created>
@@ -329,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679458038709</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="各种Demo">
+      <created>1680075047777</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1680075047777</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,7 +409,8 @@
     <MESSAGE value="实体类" />
     <MESSAGE value="实体类案例以及电影查询案例" />
     <MESSAGE value="String" />
-    <option name="LAST_COMMIT_MESSAGE" value="String" />
+    <MESSAGE value="各种Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="各种Demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -385,6 +424,11 @@
           <url>file://$PROJECT_DIR$/api_study/src/com/apistudy/arraylist/ArrayListDemo.java</url>
           <line>29</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/comprehensive_exe/src/com/day02/Test05.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
