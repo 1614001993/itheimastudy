@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="shizhanxiangmu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/shizhanxiangmu_jar</output-path>
+    <root id="archive" name="shizhanxiangmu.jar">
+      <element id="module-output" name="shizhanxiangmu" />
+    </root>
+  </artifact>
+</component>
