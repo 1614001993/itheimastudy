@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="movie">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="movie.jar">
+      <element id="module-output" name="moive-test" />
+    </root>
+  </artifact>
+</component>

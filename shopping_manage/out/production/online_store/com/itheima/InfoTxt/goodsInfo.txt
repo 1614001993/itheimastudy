@@ -1,0 +1,6 @@
+goodId=1001      goodName=方便面面      goodPrice=5        goodStock=10000
+goodId=1002      goodName=卫龙条条      goodPrice=2        goodStock=965
+goodId=1003      goodName=可比克克      goodPrice=4        goodStock=6587
+goodId=1004      goodName=巧克力力      goodPrice=2        goodStock=8000
+goodId=1005      goodName=鸡蛋饼饼      goodPrice=7        goodStock=1000
+goodId=1006      goodName=可口乐乐      goodPrice=4        goodStock=1020

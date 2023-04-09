@@ -12,7 +12,7 @@ public class StudentOperator {
     // 欢迎界面，选择操作
     public void helloUser() {
         first();
-        loop:
+        page:
         while (true) {
             System.out.println("========欢迎使用学生管理系统========");
             System.out.println("1.添加学生");
@@ -38,7 +38,7 @@ public class StudentOperator {
                     break;
                 case "5":
                     System.out.println("退出系统");
-                    break loop;
+                    break page;
                 default:
                     System.out.println("离开");
                     break;
